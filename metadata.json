@@ -1,0 +1,6 @@
+{
+  "name": "VoxDub - AI Video Dubbing",
+  "description": "Convert and dub videos into multiple languages with AI voice synthesis, pitch, speed, and emotional tone customization with real-time preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
